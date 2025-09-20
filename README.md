@@ -2,8 +2,6 @@
   <img src="https://ap-south-1.graphassets.com/cm8zs6tyg008n01uw9u9odwlb/cmfs7f3vx1fnw07pndcy4wme1" alt="Wave by Mark" />
 </p>
 
----
-
 # Hello, I'm **Mark John Allen Nizal** 👋
 *Front-End Developer | Design & UI Enthusiast*
 
