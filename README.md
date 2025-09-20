@@ -38,3 +38,6 @@ I build front-end experiences that are fast, scalable, and visually consistent, 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+<p align="center">
+  <img src="https://ap-south-1.graphassets.com/cm8zs6tyg008n01uw9u9odwlb/cmfs6c6am1ee707pnj2ufhir7" alt="Wave by Mark" />
+</p>
