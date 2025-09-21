@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://ap-south-1.graphassets.com/cm8zs6tyg008n01uw9u9odwlb/cmfs7f3vx1fnw07pndcy4wme1" alt="Wave by Mark" />
-</p>
-
 # Hello, I'm **Mark John Allen Nizal** 👋
 *Front-End Developer | Design & UI Enthusiast*
 
@@ -40,3 +36,7 @@ I build front-end experiences that are fast, scalable, and visually consistent, 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<p align="center">
+  <img src="https://ap-south-1.graphassets.com/cm8zs6tyg008n01uw9u9odwlb/cmfs7f3vx1fnw07pndcy4wme1" alt="Wave by Mark" />
+</p>
